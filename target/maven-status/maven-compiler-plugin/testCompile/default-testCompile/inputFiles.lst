@@ -1,0 +1,16 @@
+/Users/jagi/workspace/java/boot-admin-4/src/test/java/com/hb0730/boot/admin/security/controller/TestControllerTest.java
+/Users/jagi/workspace/java/boot-admin-4/src/test/java/com/hb0730/boot/admin/task/utils/JobInvokeUtilTest.java
+/Users/jagi/workspace/java/boot-admin-4/src/test/java/com/hb0730/boot/admin/project/system/user/service/impl/UserAccountServiceImplTest.java
+/Users/jagi/workspace/java/boot-admin-4/src/test/java/com/hb0730/boot/admin/project/system/menu/service/impl/MenuServiceImplTest.java
+/Users/jagi/workspace/java/boot-admin-4/src/test/java/com/hb0730/boot/admin/project/system/option/service/impl/OptionServiceImplTest.java
+/Users/jagi/workspace/java/boot-admin-4/src/test/java/com/hb0730/boot/admin/excel/utils/ExcelUtilsTest.java
+/Users/jagi/workspace/java/boot-admin-4/src/test/java/org/springframework/expresion/ExpressionParserTest.java
+/Users/jagi/workspace/java/boot-admin-4/src/test/java/com/hb0730/boot/admin/message/mail/EmailSendMsgHandleTest.java
+/Users/jagi/workspace/java/boot-admin-4/src/test/java/com/hb0730/boot/admin/token/impl/RedisTokenServiceImplTest.java
+/Users/jagi/workspace/java/boot-admin-4/src/test/java/com/hb0730/boot/admin/project/ProjectTest.java
+/Users/jagi/workspace/java/boot-admin-4/src/test/java/com/hb0730/boot/admin/security/controller/LoginControllerTest.java
+/Users/jagi/workspace/java/boot-admin-4/src/test/java/com/hb0730/boot/admin/RegUtilTest.java
+/Users/jagi/workspace/java/boot-admin-4/src/test/java/com/hb0730/boot/admin/task/quartz/utils/ScheduleUtilsTest.java
+/Users/jagi/workspace/java/boot-admin-4/src/test/java/com/hb0730/boot/admin/cache/CacheUtilTest.java
+/Users/jagi/workspace/java/boot-admin-4/src/test/java/com/hb0730/boot/admin/project/system/dept/service/impl/DeptServiceImplTest.java
+/Users/jagi/workspace/java/boot-admin-4/src/test/java/com/hb0730/boot/admin/commons/utils/QueryWrapperUtilsTest.java
